@@ -1,0 +1,12 @@
+Engine/Binaries filter=lfs diff=lfs merge=lfs -text
+Engine/Extras filter=lfs diff=lfs merge=lfs -text
+Engine/Saved filter=lfs diff=lfs merge=lfs -text
+brutalEncounter/Content filter=lfs diff=lfs merge=lfs -text
+brutalEncounter/Saved filter=lfs diff=lfs merge=lfs -text
+brutalEncounter.exe filter=lfs diff=lfs merge=lfs -text
+*dll filter=lfs diff=lfs merge=lfs -text
+*.pak filter=lfs diff=lfs merge=lfs -text
+*.ini filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.log filter=lfs diff=lfs merge=lfs -text
+Engine/Binaries/Win64/UE4Game.exe filter=lfs diff=lfs merge=lfs -text
